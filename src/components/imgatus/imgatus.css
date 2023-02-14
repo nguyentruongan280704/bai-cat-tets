@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.contaitext{
+    width: 100%;
+    height: 100%;
+    margin-left: 7%;
+    margin-top: 3%;
+  }
+  .wrapitall{
+    display: flex;
+  }
+  .tudutai1 {
+    position: relative;
+  }
+  .name1{
+    width: 70%;
+    position: absolute;
+    top: 88%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+  }
+  .name1 .siska{
+    font-size: 26px;
+    color: white;
+  }
+  .name1 label{
+    font-size: 16px;
+    color: white;
+  }
+  .name1 p{
+    color: white;
+    margin-top: 5%;
+  }
+  .tudutai1 img{
+    width: 90%;
+    height: 700px;
+  }
+  .tudutai2{
+    width: 80%;
+    /* height: 100%; */
+  }
+  .goigon1{
+    position: relative;
+  }
+  .goigon1 img{
+    width: 79%;
+    height: 327px;
+  }
+  .name2 {
+    width: 70%;
+    position: absolute;
+    top: 75%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+  }
+  .name2 .Jeruk{
+    font-size: 26px;
+    color: white;
+  }
+  .name2 label{
+    font-size: 16px;
+    color: white;
+  }
+  .name2 p{
+    color: white;
+    margin-top: 3%;
+  }
+  .name3 {
+    width: 70%;
+    position: absolute;
+    top: 72%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+  }
+  .name3 .Cozy{
+    font-size: 26px;
+    color: white;
+  }
+  .name3 label{
+    font-size: 16px;
+    color: white;
+  }
+  .name3 p{
+    color: white;
+    font-size: 16px;
+    margin-top: 4%;
+  }
+  .goigon2{
+    position: relative;
+    top: 6%;
+  }
+  .goigon2 img{
+    width: 79%;
+    height: 327px;
+  }

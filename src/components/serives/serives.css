@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.tyteby{
+    text-align: center;
+    padding-top: 5%;
+    width: 100%;
+}
+.tyteby label{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 130%;
+}
+.tyteby p{
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    padding-top: 1%;
+    line-height: 180%;
+    color: #AFADB5;
+}

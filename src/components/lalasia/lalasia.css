@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.lalabia{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 7%;
+  }
+  .lalasia{
+    display: flex;
+  }
+  .lalasia p {
+    margin-top: 4%;
+    margin-left: 2%;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .digital{
+    width: 100%;
+    margin-top: 5%;
+    font-weight: 500;
+    font-size: 15px;
+  }
+  .lomnhom1{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    margin-left: 35%;
+  }
+  .tuififif1 p {
+    padding-top: 15%;
+  }
+  .tuififif2 p {
+    padding-top: 20%;
+  }
+  .tuififif3 p {
+    padding-top: 17%;
+  }

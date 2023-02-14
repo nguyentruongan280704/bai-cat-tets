@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.family1 {
+  display: flex;
+}
+.tudota1 {
+  width: 22%;
+  height: 200px;
+  border: 1px solid black;
+  margin-left: 7%;
+  margin-top: 4%;
+  border: none;
+}
+.bonsai1 {
+  width: 30%;
+  height: 83px;
+  border: 1px solid black;
+  border: none;
+}
+.bonsai1 p {
+  font-size: 64px;
+  color: #518581;
+}
+.undifai {
+  padding-top: 2%;
+}
+.undifai p {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 130%;
+}
+.tudulits {
+  padding-top: 3%;
+  color: #afadb5;
+}
